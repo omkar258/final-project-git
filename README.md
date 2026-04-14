@@ -9,3 +9,4 @@ This project demonstrates GitHub UI and Git CLI operations including branching, 
 
 ## Author
 Omkar Kokate
+Fix typo
