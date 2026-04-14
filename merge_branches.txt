@@ -1,0 +1,8 @@
+bash: $'\302\226git': command not found
+warning: in the working copy of 'README.md', LF will be replaced by CRLF the next time Git touches it
+[main 8b8fc74] Fix typo
+ 1 file changed, 1 insertion(+)
+Already on 'main'
+Your branch is ahead of 'origin/main' by 1 commit.
+  (use "git push" to publish your local commits)
+merge: bug-fix-typo - not something we can merge
