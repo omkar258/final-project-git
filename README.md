@@ -7,5 +7,8 @@ This project demonstrates GitHub UI and Git CLI operations including branching, 
 - Git branching and merging
 - Open-source contribution files
 
+
+Fix typo
+Updated for pull request
 ## Author
 Omkar Kokate
